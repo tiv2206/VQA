@@ -1,0 +1,28 @@
+### Test case includes:
+
+- ID
+- Features to be tested/title
+- Preconditions
+- Test Data
+- Steps
+- Expected results
+- Actual result (during execution)
+- Pas\Fail (during execution)
+
+
+
+Example:
+
+
+Title: Make sure application’s language can be changed to Spanish
+Test Data:
+Login: TestAcc1999 Password: 2021Pswd
+Preconditions:
+User must be signed in
+Steps:
+
+1. Click on settings
+2. Click on Language
+3. Click Spanish
+Expected Result:
+Language should be changed to Spanish
